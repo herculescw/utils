@@ -1,0 +1,11 @@
+http://141.142.170.172/nfiedata/HUC6/011000/011000hand.tif
+http://141.142.170.172/nfiedata/HUC6/010200/010200hand.tif
+http://141.142.170.172/nfiedata/HUC6/010300/010300hand.tif
+http://141.142.170.172/nfiedata/HUC6/010400/010400hand.tif
+http://141.142.170.172/nfiedata/HUC6/010500/010500hand.tif
+http://141.142.170.172/nfiedata/HUC6/010600/010600hand.tif
+http://141.142.170.172/nfiedata/HUC6/010700/010700hand.tif
+http://141.142.170.172/nfiedata/HUC6/010801/010801hand.tif
+http://141.142.170.172/nfiedata/HUC6/010802/010802hand.tif
+http://141.142.170.172/nfiedata/HUC6/010900/010900hand.tif
+http://141.142.170.172/nfiedata/HUC6/011000/011000hand.tif
